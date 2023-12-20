@@ -47,7 +47,7 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/OJane1/grocery-list/assets/60651332/d1905e19-3177-4e24-b1ef-8760773e59ef">View Demo</a>
+    <a href="https://github.com/github_OJane1/grocery_list_demo.mov">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
