@@ -48,6 +48,7 @@
     <br />
     <br />
     <a href="https://github.com/github_OJane1/grocery_list_demo.mov">View Demo</a>
+    ![Alt-demo](grocery-list/readme-assets/grocery_list_demo.mov)
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
