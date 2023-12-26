@@ -42,17 +42,7 @@
 <h3 align="center">Grocery List Application</h3>
 
   <p align="center">
-    Simply type in the input field something you want to buy, click on the "Add" button or press Enter. The item is now in your list. By clicking on an item you will strike it out, and by clicking on the "Delete" button you will clear your list.  
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="![Alt-demo](grocery-list/readme-assets/grocery_list_demo.mov)">View Demo</a>
-    
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    An interactive checkable list to keep a track on your groceries.
   </p>
 </div>
 
@@ -89,9 +79,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]([https://example.com]((https://github.com/OJane1/grocery-list/blob/master/readme-assets/grocery_list_screenshot.png?raw=true)))
+<img src="https://github.com/OJane1/grocery-list/blob/master/readme-assets/grocery_list_screenshot.png?raw=true" alt="screenshot" width="300px">
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<p> Simply type in the input field something you want to buy, click on the "Add" button or press Enter. The item is now in your list. By clicking on an item you will strike it out, and by clicking on the "Delete" button you will clear your list.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
