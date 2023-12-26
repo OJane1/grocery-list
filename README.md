@@ -36,7 +36,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://images.unsplash.com/photo-1623265300797-4a3541e29a60?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3JvY2VyeSUyMGxpc3R8ZW58MHx8MHx8fDA%3D" alt="Logo" width="130" height="100">
+    <img src="https://github.com/OJane1/grocery-list/blob/master/readme-assets/topview-fruit-juices-with-clipboard-copyspace.jpg?raw=true" alt="Logo" width="130" height="100">
   </a>
 
 <h3 align="center">Grocery List Application</h3>
