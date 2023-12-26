@@ -96,7 +96,7 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-See the [demo]()
+See the [demo](readme-assets/grocery_list_demo.mov)
 
 
 
